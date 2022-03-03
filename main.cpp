@@ -3,7 +3,7 @@
 #include <sstream>
 
 // ... O este para printf()
-#include <stdio.h>
+//#include <stdio.h>
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
