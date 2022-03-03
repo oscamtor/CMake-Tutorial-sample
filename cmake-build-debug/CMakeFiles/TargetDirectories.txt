@@ -1,0 +1,15 @@
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/CMakeFiles/test.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/CMakeFiles/test_library.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/CMakeFiles/CMake-Tutorial-sample_calc.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/CMakeFiles/CMake-Tutorial-sample.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/CMakeFiles/test.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/CMakeFiles/CMake-Tutorial-sample_boost.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/ctest/CMakeFiles/rebuild_cache.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/ctest/CMakeFiles/edit_cache.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/ctest/CMakeFiles/test.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/ctest/CMakeFiles/ctest_example_addvalues_negpos.dir
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/cmake-build-debug/test/ctest/CMakeFiles/ctest_exe_addvalues_zero.dir

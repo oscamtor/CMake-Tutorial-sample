@@ -1,0 +1,1 @@
+/usr/bin/g++    -lstdc++ -g    CMakeFiles/CMake-Tutorial-sample_calc.dir/main.cpp.o CMakeFiles/CMake-Tutorial-sample_calc.dir/calc.cpp.o  -o CMake-Tutorial-sample_calc 

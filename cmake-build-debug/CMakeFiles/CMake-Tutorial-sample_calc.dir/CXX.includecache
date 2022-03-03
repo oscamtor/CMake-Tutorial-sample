@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/math/header_math.h
+
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/calc.cpp
+header_math.h
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/header_math.h
+calc.h
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/calc.h
+
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/calc.h
+
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/main.cpp
+stdio.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/g++    -lstdc++ -g    CMakeFiles/ctest_example_addvalues_negpos.dir/addvalues_negpos.cpp.o  -o ctest_example_addvalues_negpos 

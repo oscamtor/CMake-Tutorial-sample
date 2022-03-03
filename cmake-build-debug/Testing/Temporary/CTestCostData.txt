@@ -1,0 +1,3 @@
+ctest_addvalues_zero 1 0.00331179
+ctest_addvalues_negpos 1 0.0036006
+---

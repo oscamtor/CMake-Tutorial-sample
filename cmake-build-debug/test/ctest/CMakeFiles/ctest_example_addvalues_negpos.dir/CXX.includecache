@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/test/ctest/addvalues_negpos.cpp
+assert_macro.h
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/test/ctest/assert_macro.h
+
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/test/ctest/assert_macro.h
+iostream
+-
+sstream
+-
+

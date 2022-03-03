@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/calc.h
+
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/test/tests.cpp
+boost/test/unit_test.hpp
+-
+../calc.h
+/home/developer/Proyectos/curses/CMake-Tutorial-sample/calc.h
+

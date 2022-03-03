@@ -1,0 +1,1 @@
+/usr/bin/g++    -lstdc++ -g    CMakeFiles/CMake-Tutorial-sample.dir/main.cpp.o  -o CMake-Tutorial-sample  ../lib/libtest_library.a 
