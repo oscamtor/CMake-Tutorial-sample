@@ -1,3 +1,11 @@
+
+#  Enable Debug. sets the Release With Debug Information mode (change the default build mode and see it reflected in the GUI)
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE RelWithDebInfo CACHE STRING
+      "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel."
+      FORCE)
+endif()
+
 set (Boost_USE_STATIC_LIBS OFF) #enable dynamic linking
 
 #search for unit_test_framework

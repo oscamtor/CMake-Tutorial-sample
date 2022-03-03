@@ -13,6 +13,13 @@ SET(CMAKE_EXE_LINKER_FLAGS  "${CMAKE_EXE_LINKER_FLAGS} ${GCC_COVERAGE_LINK_FLAGS
 
 project(CMake-Tutorial-sample)
 
+#  Enable Debug. sets the Release With Debug Information mode (change the default build mode and see it reflected in the GUI)
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE RelWithDebInfo CACHE STRING
+      "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel."
+      FORCE)
+endif()
+
 set(CMAKE_CXX_STANDARD 14)
 
 
